@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Ferran a software developer by day and also by night, sometimes, only when I feel like it really.
+<h2>Hi there 👋, I'm Ferran a software developer by day and also by night, sometimes, only when I feel like it, really.</h2>
 
-This is my octocat:
-<img src="assets/octocat.png">
+<img src="octocat.png" width="300" height="300">
 
 - 🔭 I’m currently working on [Axie Scholar Utilities](https://github.com/FerranMarin/axie-scholar-utilities)
 - 🌱 I’m currently learning about web3 and cryptos
