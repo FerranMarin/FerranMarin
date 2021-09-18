@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help with integreting Trezor to my project.
 - 📫 How to reach me: [Discord](https://discord.gg/bmKvmhenvu), [Email](ferran.marin.llobet@gmail.com), [LinkedIn](https://www.linkedin.com/in/ferranmarinllobet/)
 
-Enjoy a random meme:
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 ##Github Stats:
+
+
+
+<img src=https://imgs.xkcd.com/comics/real_programmers.png>
