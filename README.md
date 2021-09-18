@@ -6,8 +6,6 @@
 - 🤔 I’m looking for help with integreting Trezor to my project.
 - 📫 How to reach me: [Discord](https://discord.gg/bmKvmhenvu), [Email](ferran.marin.llobet@gmail.com), [LinkedIn](https://www.linkedin.com/in/ferranmarinllobet/)
 
-##Github Stats:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferranmarin&count_private=false&show_icons=true&theme=dark&hide=contribs,prs)
 
-
-
-<img src=https://imgs.xkcd.com/comics/real_programmers.png>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferranmarin&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
