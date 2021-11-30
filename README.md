@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about web3 and cryptos
 - 👯 I’m looking to collaborate on any projects that would need my help, specially if in the crypto space.
 - 🤔 I’m looking for help with integreting Trezor to my project.
-- 📫 How to reach me: [Discord](https://discord.gg/bmKvmhenvu), [Email](ferran.marin.llobet@gmail.com), [LinkedIn](https://www.linkedin.com/in/ferranmarinllobet/)
+- 📫 How to reach me: [Discord](https://discord.gg/bmKvmhenvu), [Email](mailto:ferran.marin.llobet@gmail.com), [LinkedIn](https://www.linkedin.com/in/ferranmarinllobet/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferranmarin&count_private=false&show_icons=true&theme=dark&hide=contribs,prs)
 
