@@ -2,7 +2,7 @@
 
 <img src="octocat.png" width="300" height="300">
 
-- 🔭 I’m currently working on [Axie Scholar Utilities](https://github.com/FerranMarin/axie-scholar-utilities)
+- 🔭 I’m currently working on [Axie Scholar Utilities](https://github.com/FerranMarin/axie-scholar-utilities) and [Axie Utils Lib](https://github.com/FerranMarin/axie-utils-lib)
 - 🌱 I’m currently learning about web3 and cryptos
 - 👯 I’m looking to collaborate on any projects that would need my help, specially if in the crypto space.
 - 🤔 I’m looking for help with integreting Trezor to my project.
