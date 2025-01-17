@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on nothing...
 - 🌱 I’m currently learning about TBD
 - 👯 I’m looking to collaborate on any projects that would need my help.
-- 📫 How to reach me: [Discord](https://discord.gg/bmKvmhenvu), [Email](mailto:ferran.marin.llobet@gmail.com), [LinkedIn](https://www.linkedin.com/in/ferranmarinllobet/)
+- 📫 How to reach me: [Email](mailto:ferran.marin.llobet@gmail.com), [LinkedIn](https://www.linkedin.com/in/ferranmarinllobet/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferranmarin&count_private=false&show_icons=true&theme=dark&hide=contribs,prs)
 
